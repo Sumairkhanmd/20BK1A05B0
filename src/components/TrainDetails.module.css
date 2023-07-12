@@ -1,0 +1,23 @@
+.train-details {
+    margin-top: 20px;
+    background-image: url("../pexels-felix-mittermeier-2832046.jpg");
+    background-size: cover;
+    background-position: center;
+    color: #E6E6FF;
+  }
+  
+  
+  .train-name {
+    font-size: 18px;
+    font-weight: bold;
+    color: #E6FFE6;
+  }
+  
+  .train-time {
+    font-size: 14px;
+    color: white;
+  }
+
+  
+  
+  
